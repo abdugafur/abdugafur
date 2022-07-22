@@ -35,19 +35,17 @@
 ## 📊 My Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdugafur&show_icons=true&locale=en&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="abdugafur" /></p>
  <br/>
- <p align="center">
  <a href="https://github.com/SubhamRabdugafuraoniar28/github-readme-streak-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdugafur&&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="abdugafur" />
  </a>
-</p>
+ <br/>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
 <br/>
 
-b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-<a href="https://github.com/abdugafur/github-readme-activity-graph"><img alt="Abduganiyev Abdugafur's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abduagafur&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/abdugafur/github-readme-activity-graph"><img alt="Abduganiyev Abdugafur's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abdugafur&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 ##  Connect with me:
