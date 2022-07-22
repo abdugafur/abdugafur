@@ -41,9 +41,9 @@
  </a>
 </p>
 <br/>
-
+<br/>
 ##  Connect with me:
-
+<br/>
 <p align="left">
 <a href="https://codepen.io/abdugafur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdugafur" height="30" width="40" /></a>
 <a href="https://twitter.com/abdugafur16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdugafur16" height="30" width="40" /></a>
