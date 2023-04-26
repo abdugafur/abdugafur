@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Payment system app**
+- 🔭 I’m currently working on **My own project**
 
 - 🌱 I’m currently learning **Nest JS**
 
